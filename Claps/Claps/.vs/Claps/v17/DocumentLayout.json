@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|c:\\users\\kapse\\onedrive\\desktop\\nokia\\claps\\assets\\scripts\\noteobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\noteobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\assets\\scripts\\beatscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beatscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\assets\\scripts\\scalefrommicrophone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scalefrommicrophone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\assets\\scripts\\effectobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effectobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052BE87A-5C09-3C66-8703-248D3A26C7AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaleFromMicrophone.cs",
+              "DocumentMoniker": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\ScaleFromMicrophone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScaleFromMicrophone.cs",
+              "ToolTip": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\ScaleFromMicrophone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScaleFromMicrophone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:51:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EffectObject.cs",
+              "DocumentMoniker": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\EffectObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EffectObject.cs",
+              "ToolTip": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\EffectObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EffectObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:51:03.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA6wCwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:05:49.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteObject.cs",
+              "DocumentMoniker": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\NoteObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NoteObject.cs",
+              "ToolTip": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\NoteObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NoteObject.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:13:44.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeatScroller.cs",
+              "DocumentMoniker": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\BeatScroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeatScroller.cs",
+              "ToolTip": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\BeatScroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeatScroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:51:42.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonController.cs",
+              "DocumentMoniker": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\ButtonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonController.cs",
+              "ToolTip": "C:\\Users\\kapse\\OneDrive\\Desktop\\Nokia\\Claps\\Assets\\Scripts\\ButtonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:25:31.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
