@@ -22,7 +22,9 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated Game Designer wi
 
 ## ✨ **Key Skills**
 - **Game Engines**: Unity, Unreal Engine
-- **Programming Languages**: C#, Python
+- **Programming Languages**: C#, Python, Blueprints
+- **Design Tools**: Figma, Photoshop
+- **Project Management Tools**: Jira, Trello
 - **Focus Areas**: Gameplay mechanics, level design, player experience, and prototyping
 - **Additional Skills**: Agile development, version control (Git), collaborative design
 
