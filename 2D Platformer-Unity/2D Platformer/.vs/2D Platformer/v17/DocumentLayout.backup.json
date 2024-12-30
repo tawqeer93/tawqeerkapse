@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\2D Platformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|d:\\projects\\2d platformer\\assets\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|D:\\Projects\\2D Platformer\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|D:\\Projects\\2D Platformer\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|D:\\Projects\\2D Platformer\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|D:\\Projects\\2D Platformer\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|D:\\Projects\\2D Platformer\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|D:\\Projects\\2D Platformer\\assets\\scripts\\pop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|D:\\Projects\\2D Platformer\\assets\\scripts\\life.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\life.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|D:\\Projects\\2D Platformer\\assets\\scripts\\killer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\killer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|D:\\Projects\\2D Platformer\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|D:\\Projects\\2D Platformer\\assets\\scripts\\fxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:03:46.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pop.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Pop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pop.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Pop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:03:41.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAmwI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:03:33.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Life.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Life.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Life.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Life.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Life.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:03:29.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Killer.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Killer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Killer.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Killer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Killer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:03:25.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:03:18.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FXManager.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\FXManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FXManager.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\FXManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FXManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:03:13.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAEwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:02:50.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:02:47.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\Camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBcAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:02:36.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\Projects\\2D Platformer\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADgvxoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:02:18.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

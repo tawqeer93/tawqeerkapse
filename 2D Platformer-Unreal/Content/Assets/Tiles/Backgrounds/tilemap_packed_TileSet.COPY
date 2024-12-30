@@ -1,0 +1,27 @@
+Begin Object Class=/Script/Paper2D.PaperTileSet Name="tilemap_packed_TileSet"
+   TileSize=(X=18,Y=18)
+   TileSheet=Texture2D'"/Game/Assets/Tiles/Backgrounds/tilemap_packed.tilemap_packed"'
+   WidthInTiles=20
+   HeightInTiles=9
+   AllocatedWidth=20
+   AllocatedHeight=9
+   PerTileData(0)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(1)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(2)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(3)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(4)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(5)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(20)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(21)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(22)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(23)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(24)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(25)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(121)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(122)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(123)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(141)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(142)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(143)=(CollisionData=(Shapes=((Vertices=((X=-9.000000,Y=-9.000000),(X=9.000000,Y=-9.000000),(X=9.000000,Y=9.000000),(X=-9.000000,Y=9.000000)),BoxSize=(X=18.000000,Y=18.000000)))))
+   PerTileData(179)=()
+End Object
